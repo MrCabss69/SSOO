@@ -49,7 +49,7 @@ int main(int argc, char * argv[]){
 			}
 			
 			alarm(0);
-
+	// está pendiente el apartado e) del ejercicio. 
 
 	}
 	return 0;
